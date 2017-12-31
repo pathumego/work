@@ -1,0 +1,22 @@
+permalink: none
+exclude: [ "sass", "CNAME", "config.rb", "LICENSE", "README.md", "_assets", "Gemfile", "Gemfile.lock", "rakefile" ]
+
+
+prose:
+ rooturl: "_posts/"
+ metadata:
+  "_posts/exhibits": |
+   layout: default
+   category: exhibit
+   title: "El titulo del exhibit"
+   section: "La sección a la que pertenece este exhibit"
+  "_posts/sections": |
+   layout: default
+   category: section
+   title: "El título de la sección"
+
+
+
+title: Selected work from mooniak
+author: mooniak.com
+twitter: colaborativaeu
